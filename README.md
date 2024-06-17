@@ -1,0 +1,1 @@
+![alt text](https://github.com/imakhlaq/[reponame]/blob/[branch]/image.jpg?raw=true)
